@@ -47,8 +47,8 @@
         2. DataFrames
         3. Exercicios
 
-5. [EDA - Exploration Data Analysis]()
+5. [EDA - Exploration Data Analysis](/class5)
 
-6. [Modelos de Machine Learning]()
+6. [Modelos de Machine Learning](/class6)
 
-7. [Desafio Kaggle]()
+7. [Desafio Kaggle](/class7)
