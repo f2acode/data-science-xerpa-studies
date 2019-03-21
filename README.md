@@ -28,6 +28,15 @@ Continuação da conversão de datas e segmentação de campos.
 
 7. [EDA - Exploration Data Analysis III](/class7)
 
+Continuação de alguns tratamentos:
+* tratar texto
+* aplicar encoding
+    * label
+    * hot enconding 
+* Tratamentos de variáveis numéricas
+* Fazer histograma - verificar outliers
+boxplot, pois a regressão linear é sensível à outliers
+
 X. [Modelos de Machine Learning]()
 
 X. [Desafio Kaggle]()
